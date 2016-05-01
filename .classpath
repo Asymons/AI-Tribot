@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="lib" path="dependancies/Images.jar"/>
+	<classpathentry exported="true" kind="lib" path="dependancies/substance.jar"/>
+	<classpathentry exported="true" kind="lib" path="dependancies/TRiBot.jar"/>
+	<classpathentry exported="true" kind="lib" path="dependancies/trident.jar"/>
+	<classpathentry exported="true" kind="lib" path="dependancies/xboot.jar"/>
+	<classpathentry exported="true" kind="lib" path="dependancies/xboot740.jar"/>
+	<classpathentry exported="true" kind="lib" path="dependancies/xboot771.jar"/>
+	<classpathentry exported="true" kind="lib" path="dependancies/xboot8.jar"/>
+	<classpathentry exported="true" kind="lib" path="dependancies/xboot825.jar"/>
+	<classpathentry exported="true" kind="lib" path="dependancies/xboot840.jar"/>
+	<classpathentry exported="true" kind="lib" path="dependancies/xboot860.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
